@@ -1,6 +1,6 @@
 # 📽️ Mujeres en el cine a lo largo de la historia
 
-##   Descripción: Este proyecto consiste en un análisis de la representación femenina en el cine a lo largo del tiempo, utilizando datasets relacionados con el **Test de Bechdel**. El objetivo es entender cómo ha evolucionado la participación y representación de las mujeres en las películas desde una perspectiva crítica y basada en datos.
+##  Descripción: Este proyecto consiste en un análisis de la representación femenina en el cine a lo largo del tiempo, utilizando datasets relacionados con el **Test de Bechdel**. El objetivo es entender cómo ha evolucionado la participación y representación de las mujeres en las películas desde una perspectiva crítica y basada en datos.
 
 ### 👩‍💻 Tecnologías utilizadas-
 
